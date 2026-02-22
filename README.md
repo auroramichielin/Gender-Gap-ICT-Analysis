@@ -15,17 +15,17 @@ This project investigates why women remain underrepresented in the technology se
 * **Regional Differences**: Comparison of ICT specialist distribution across EU member states (e.g., Italy, Sweden, Czechia).
 
 ## 📊 Data Visualization Examples
-https://www.datawrapper.de/_/wNlHs/
-https://www.datawrapper.de/_/YlWVw/?v=2
-https://www.datawrapper.de/_/8Pjwn/
-https://www.datawrapper.de/_/atW3A/?v=3
-https://www.datawrapper.de/_/ozpXN/?v=2
-https://www.datawrapper.de/_/a72nG/
+- https://www.datawrapper.de/_/wNlHs/
+- https://www.datawrapper.de/_/YlWVw/?v=2
+- https://www.datawrapper.de/_/8Pjwn/
+- https://www.datawrapper.de/_/atW3A/?v=3
+- https://www.datawrapper.de/_/ozpXN/?v=2
+- https://www.datawrapper.de/_/a72nG/
 
 
 ## 📁 Files Included
 * `ICT_Gender_Analysis_Workbook.xlsx`: Full dataset with pivot tables and ICT employment metrics.
-* `Beyond_the_Gap_Presentation.pdf`: The final research report and visual storytelling.
+* `Beyond_the_Gap_Presentation.pdf`: The final research report and visual storytelling (in italian).
 * `/data`: Cleaned CSV files used for visualizations.
 
 ---
