@@ -1,2 +1,28 @@
-# Gender-Gap-ICT-Analysis
-A comprehensive data visualization project investigating the gender disparity in the ICT sector across the EU (2013–2023), from university degrees to professional employment.
+# Beyond the Gap: Women in Tech 👩‍💻
+An analysis of the gender gap in the ICT sector within the European Union.
+
+## 📌 Project Overview
+This project investigates why women remain underrepresented in the technology sector. It tracks the "leaky pipeline" from university choices to professional roles, comparing data from 2013 to 2023.
+
+## 🛠 Tech Stack
+* **Data Analysis**: Excel (Pivot Tables, Data Cleaning)
+* **Data Visualization**: Datawrapper (Interactive Charts & Maps)
+* **Presentation & Design**: Canva
+
+## 🔍 Key Insights
+* **The Academic Gap**: Women are highly represented in Health and Education but show a significant drop in STEM and ICT fields.
+* **Employment Trends**: Analysis of ICT specialists in the EU shows that despite growth, the percentage of women remains disproportionately low compared to men.
+* **Regional Differences**: Comparison of ICT specialist distribution across EU member states (e.g., Italy, Sweden, Czechia).
+
+## 📊 Data Visualization Examples
+*(Qui potresti inserire i link ai tuoi grafici Datawrapper o degli screenshot)*
+* [Insert Title of Chart 1]
+* [Insert Title of Chart 2]
+
+## 📁 Files Included
+* `ICT_Gender_Analysis_Workbook.xlsx`: Full dataset with pivot tables and ICT employment metrics.
+* `Beyond_the_Gap_Presentation.pdf`: The final research report and visual storytelling.
+* `/data`: Cleaned CSV files used for visualizations.
+
+---
+**Author**: Aurora Michielin 
